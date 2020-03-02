@@ -79,7 +79,7 @@ const ArticleTemplate = props => {
       ) : (
         <img
           className="image is-full"
-          src={cover.publicURL}
+          src={cover.publicURL ? cover.publicURL : cover}
           alt={title}
           style={{ width: "100%" }}
         />

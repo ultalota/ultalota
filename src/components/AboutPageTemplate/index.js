@@ -30,7 +30,7 @@ const AboutPageTemplate = props => {
             ) : (
               <img
                 className="image is-full"
-                src={image.publicURL}
+                src={image.publicURL ? image.publicURL : image}
                 alt={title}
                 style={{ width: "100%" }}
               />
