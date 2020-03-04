@@ -96,7 +96,7 @@ ArticleTemplate.propTypes = {
   content: PropTypes.string,
   date: PropTypes.string,
   contentComponent: PropTypes.func,
-  cover: PropTypes.object,
+  cover: PropTypes.any,
   tags: PropTypes.array,
   title: PropTypes.string,
   author: PropTypes.string,
