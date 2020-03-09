@@ -45,7 +45,7 @@ const ContactForm = () => {
                 <p className="control is-expanded has-icons-left">
                   <Field
                     className={`input ${
-                      touched.name && errors.name ? "is-danger" : "is-success"
+                      touched.name && errors.name ? "is-danger" : "is-white"
                     }`}
                     type="text"
                     id="name"
@@ -71,7 +71,7 @@ const ContactForm = () => {
                 <p className="control is-expanded has-icons-left has-icons-right">
                   <Field
                     className={`input ${
-                      touched.email && errors.email ? "is-danger" : "is-success"
+                      touched.email && errors.email ? "is-danger" : "is-white"
                     }`}
                     type="email"
                     id="email"
@@ -99,7 +99,7 @@ const ContactForm = () => {
                     className={`textarea ${
                       touched.message && errors.message
                         ? "is-danger"
-                        : "is-success"
+                        : "is-primary"
                     }`}
                     component="textarea"
                     rows="6"
@@ -117,17 +117,6 @@ const ContactForm = () => {
           </div>
 
           <div className="field is-grouped is-grouped-right">
-            <p className="control">
-              <input
-                id="clear"
-                name="clear"
-                aria-label="Clear"
-                type="reset"
-                value="Clear"
-                className="button is-light"
-              />
-            </p>
-
             <p className="control">
               <input
                 id="submit"

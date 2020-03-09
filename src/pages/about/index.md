@@ -11,6 +11,7 @@ meta_description: >-
   sharing interesting views on the importance of the progressive reforms in
   social human existence.
 ---
+
 \[ '' ironically, we accept life isn't constant , we still look for everything fixed " ]
 
 The guy comes from Rajsthani ethnicity born and raised in the previous Bihar now Jharkhand, rewarded to pursue graduation from a more developed place than Dhanbad and Kolkata it was! Further, like a regular aimless guy who stuck to a PGDM.

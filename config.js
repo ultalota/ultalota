@@ -21,6 +21,6 @@ module.exports = {
     },
   ],
   copyright: `Copyright © Ultalota ${year}. All Rights Reserved.`, // Copyright string for the footer of the website and RSS feed.
-  themeColor: "#00d1b2", // Used for setting manifest and progress theme colors.
+  themeColor: "#ff470f", // Used for setting manifest and progress theme colors.
   backgroundColor: "#ffffff", // Used for setting manifest background color.
 }

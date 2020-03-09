@@ -1,9 +1,9 @@
 ---
 templateKey: article-page
 title: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+cover: /static/img/19787271_1613957598636758_2697871570947194063_o.jpg
 author: Raman Sharma
 date: "2020-01-16T09:28:22+05:30"
-cover: /img/lorem-ipsum.jpg
 meta_title: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 meta_description: >-
   Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
@@ -21,6 +21,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla eu dolor
 Sed tincidunt justo felis, suscipit rutrum elit ultricies eu. Mauris sed eros venenatis, auctor nisi id, consectetur erat. Mauris vel arcu consectetur, efficitur odio eu, tristique nulla. Donec cursus ante lorem, a scelerisque turpis accumsan sed. Phasellus sed rutrum quam. Praesent eget suscipit justo, eu viverra nisl. Donec hendrerit vitae justo vel porttitor. Proin bibendum nisl magna, eu pharetra enim varius vel.
 
 Sed convallis, dolor in luctus lacinia, nulla mi egestas odio, vel fermentum justo metus interdum elit. Nam nec maximus ex. Etiam at luctus nibh, a luctus mi. Proin ante dui, commodo vitae fermentum a, fermentum nec lorem. Curabitur maximus purus non nibh laoreet, in pretium elit eleifend. Morbi elementum metus at dolor condimentum, in fermentum nulla convallis. Aenean lobortis magna in nibh dapibus dapibus.
+
+https://www.youtube.com/watch?v=kOYJfC1R0OI
 
 Vivamus turpis neque, viverra at imperdiet at, fringilla non orci. Donec tincidunt eget nisi in volutpat. Phasellus in varius elit. In id risus a risus ultrices fringilla. Aliquam rutrum, dolor sed aliquam dictum, ante odio consequat felis, sit amet ultrices lorem libero a mauris. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse accumsan eros vitae libero dapibus posuere. Duis placerat metus quis ipsum porttitor, eget dictum sem placerat. Vivamus ultrices nibh vitae ligula volutpat hendrerit.
 

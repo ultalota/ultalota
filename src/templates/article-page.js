@@ -88,8 +88,8 @@ ArticlePage.propTypes = {
 
 export default ArticlePage
 
-export const pageQuery = graphql`
-  query ArticleByID($id: String!) {
+export const articlePageQuery = graphql`
+  query ArticlePage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       id
       html
@@ -99,7 +99,6 @@ export const pageQuery = graphql`
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
-        author
         cover {
           childImageSharp {
             fluid(maxWidth: 1075, quality: 72) {
@@ -108,6 +107,7 @@ export const pageQuery = graphql`
           }
           publicURL
         }
+        author
         meta_title
         meta_description
         tags

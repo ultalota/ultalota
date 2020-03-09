@@ -16,7 +16,11 @@ const ContactPageTemplate = props => {
           </div>
 
           <section className="section">
-            <ContactForm />
+            <div className="columns">
+              <div className="column is-three-fifths is-offset-one-fifth">
+                <ContactForm />
+              </div>
+            </div>
           </section>
         </div>
       </div>

@@ -26,7 +26,7 @@ const NavBar = () => {
         >
           <div className="container">
             <div className="navbar-brand">
-              <Link className="navbar-item is-uppercase has-text-black" to="/">
+              <Link className="navbar-item is-uppercase has-text-black is-size-5" to="/">
                 <strong>Ulta</strong>Lota
               </Link>
 
@@ -51,13 +51,22 @@ const NavBar = () => {
             >
               <div className="navbar-end">
                 <SearchBox searchIndex={data.siteSearchIndex.index} />
-                <Link className="navbar-item has-text-black" to="/">
+                <Link
+                  className="navbar-item has-text-primary has-text-right"
+                  to="/"
+                >
                   Home
                 </Link>
-                <Link className="navbar-item has-text-black" to="/about">
+                <Link
+                  className="navbar-item has-text-primary has-text-right"
+                  to="/about"
+                >
                   About
                 </Link>
-                <Link className="navbar-item has-text-black" to="/contact">
+                <Link
+                  className="navbar-item has-text-primary has-text-right"
+                  to="/contact"
+                >
                   Contact
                 </Link>
               </div>
