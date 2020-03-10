@@ -63,6 +63,7 @@ const HomePage = props => {
               url={previousUrl}
               text="Previous Page"
             />
+
             <PaginationLink test={last} url={nextUrl} text="Next Page" />
           </div>
         </section>

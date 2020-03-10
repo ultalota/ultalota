@@ -8,7 +8,6 @@ import { HTMLContent } from "../components/Content"
 import ArticleTemplate from "../components/ArticleTemplate"
 import Share from "../components/Share"
 import Disqus from "../components/Disqus"
-import "prismjs/themes/prism.css"
 
 const ArticlePage = props => {
   const {

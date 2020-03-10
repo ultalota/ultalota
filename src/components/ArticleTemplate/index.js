@@ -3,7 +3,6 @@ import PropTypes from "prop-types"
 import { Link } from "gatsby"
 import _ from "lodash"
 import Img from "gatsby-image"
-import "prismjs/themes/prism.css"
 import config from "../../../config"
 import Content from "../Content"
 import ShareMini from "../ShareMini"
@@ -79,7 +78,9 @@ const ArticleTemplate = props => {
       ) : (
         <img
           className="image is-full"
-          src={(cover.publicURL && cover.publicURL.length) ? cover.publicURL : cover}
+          src={
+            cover.publicURL && cover.publicURL.length ? cover.publicURL : cover
+          }
           alt={title}
           style={{ width: "100%" }}
         />

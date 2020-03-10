@@ -11,12 +11,12 @@ module.exports = {
   googleTagManagerID: process.env.GTM_ID || "", // GTM tracking ID.
   disqusShortname: process.env.DISQUS_KEY || "", // Disqus shortname.
   userName: "Raman Sharma",
-  userTwitter: "ultalota",
+  userTwitter: "ulta_lota",
   userLocation: "Delhi NCR, India",
   userLinks: [
     {
       label: "Twitter",
-      url: "https://twitter.com/ultalota",
+      url: "https://twitter.com/ulta_lota",
       iconClassName: "fab fa-twitter",
     },
   ],
