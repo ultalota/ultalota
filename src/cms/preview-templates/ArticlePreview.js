@@ -5,7 +5,7 @@ import ArticleTemplate from "../../components/ArticleTemplate"
 
 const ArticlePreview = ({ entry, widgetFor }) => {
   const title = entry.getIn(["data", "title"])
-  const cover = entry.getIn(["data", "cover"])
+  const cover = { publicURL: entry.getIn(['data', 'cover']) }
   const meta_title = entry.getIn(["data", "meta_title"])
   const meta_description = entry.getIn(["data", "meta_description"])
   const content = widgetFor("body")
