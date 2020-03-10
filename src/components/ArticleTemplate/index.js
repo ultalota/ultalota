@@ -84,10 +84,10 @@ const ArticleTemplate = props => {
           style={{ width: "100%" }}
         />
       )}
-
-      <section className="section">
+      <br />
+      <div className="container">
         <PostContent content={content} className="article-body" />
-      </section>
+      </div>
     </article>
   )
 }

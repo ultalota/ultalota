@@ -26,7 +26,10 @@ const NavBar = () => {
         >
           <div className="container">
             <div className="navbar-brand">
-              <Link className="navbar-item is-uppercase has-text-black is-size-5" to="/">
+              <Link
+                className="navbar-item is-uppercase has-text-black is-size-5"
+                to="/"
+              >
                 <strong>Ulta</strong>Lota
               </Link>
 
@@ -67,7 +70,7 @@ const NavBar = () => {
                   className="navbar-item has-text-primary has-text-right"
                   to="/contact"
                 >
-                  Contact
+                  Connect
                 </Link>
               </div>
             </div>
