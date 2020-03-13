@@ -18,6 +18,12 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: `gatsby-plugin-sharp`,
+    },
+    {
+      resolve: `gatsby-transformer-sharp`,
+    },
+    {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -70,12 +76,6 @@ module.exports = {
           `gatsby-remark-smartypants`,
         ],
       },
-    },
-    {
-      resolve: `gatsby-plugin-sharp`,
-    },
-    {
-      resolve: `gatsby-transformer-sharp`,
     },
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`,
