@@ -12,6 +12,5 @@ meta_description: >-
 tags:
   - life is beautiful
   - unlock the lock
-  - ''
 ---
 The target audience will be fed with the new stories, focus points to look upon building a rational mindset also, to grow from mistakes and learn how to think positively and make life simply beautiful.
