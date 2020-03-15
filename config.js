@@ -9,7 +9,7 @@ module.exports = {
   siteDescription: "UltaLota is the personal blog of Raman Sharma.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml",
   googleTagManagerID: process.env.GTM_ID || "", // GTM tracking ID.
-  disqusShortname: process.env.DISQUS_KEY || "", // Disqus shortname.
+  disqusShortname: process.env.DISQUS_KEY || "ultalota", // Disqus shortname.
   userName: "Raman Sharma",
   userTwitter: "ulta_lota",
   userLocation: "Delhi NCR, India",
