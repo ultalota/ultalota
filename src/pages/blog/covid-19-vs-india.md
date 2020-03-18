@@ -11,8 +11,8 @@ meta_description: >-
   rises to its pure?
 tags:
   - corona
-  - covid
-  - vs india
+  - covid19
+  - vs India
 ---
 It is tough to get along with strangers before Covid19 outbreak Hopefully, we still do it and feel it strong about our get along behavior.
 
