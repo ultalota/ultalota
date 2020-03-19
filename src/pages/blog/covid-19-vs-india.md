@@ -28,8 +28,6 @@ Take it seriously, and make everyone aware of it. washing hands is new mantra of
 
 How India is fighting with the unknown.
 
-Get know <https://www.mohfw.gov.in/>
-
 In brief,
 
 With the population 133.92 crores (2017)
