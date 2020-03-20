@@ -9,7 +9,7 @@ meta_description: |-
   Different perspectives on how factors of living and outlook should change.
   A hint of Understanding how nations build character while fighting a war.
 tags:
-  - waragaintcorona
+  - waragainstcorona
   - coronavsindia
   - fear
 ---
