@@ -29,15 +29,11 @@ Later, after tasting blood these protest organizers started disrupting again wit
 
 Then comes the political influencers who started using it for excuses and benefits. Using the tool of fake AV message to add fear to quarantine. Fear grows faster to create panic and panic never helps to take a wise and fair decision.
 
-
-
 Fear has greater value one who knows what to get from it, how to get it, it is abundantly 'visible fear' for co corporate and businessman to sell. Add 'more fear' to get your business going.
 
 Every saving is done on fear of uncertainty. One who saves never takes saving out, they are tough negotiators but fear makes them most vulnerable to fear of life.
 
 This should make sense to everyone that when there is the fear of life we must look up to leaders what they are doing for us as nationals how political and business advantages been treated like.
-
-
 
 Currently, India has made it a serious war against covid19.
 
@@ -49,15 +45,11 @@ This a Wondering time for many to spin roll their mindset toward the existence a
 
 When we do so, then we must act as a soldier of humanity and respectful to others life beyond differences. Such time tests us as one nation with one eye on leadership.
 
-
-
 War is not fought between the armies, it's between Nations and Nation is of citizens.
 
 The current situation is worst than war, Entire human race is fighting #the unknown.
 
 Every country at its own and helpless, and this war will be tough for humanity coz there is no one looking at neighbors' actions nor international governing bodies have control over the current threat.
-
-
 
 Meanwhile, information media playing the best role to reap the sowing fear softly by psychologically putting information. Being correct on the aspect of awareness but hidden criticism of authorities' actions, approach, and execution.
 
@@ -65,10 +57,6 @@ Instead, Media should be contributing to inform the seriousness and spreading aw
 
 Media should change the role of improving the interactivity between users and exchanging the role as the voice to suggest what aware citizen has to share.
 
-
-
-
-
-
-
 <https://www.mohfw.gov.in/>
+
+<https://www.worldometers.info/coronavirus/#countries>
