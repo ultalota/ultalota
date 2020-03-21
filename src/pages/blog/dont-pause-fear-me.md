@@ -11,7 +11,12 @@ meta_description: |-
 tags:
   - waragainstcorona
   - coronavsindia
-  - fear
+  - fear corona
+  - covid19vsIndia
+  - CoronavirusOutbreak
+  - CoronavirusOutbreakinindia
+  - Coronavirus
+  - COVID-19
 ---
 "Tough time bring new dimensions and factor of living & survival changes"
 
