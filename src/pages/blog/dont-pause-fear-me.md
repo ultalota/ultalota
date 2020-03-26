@@ -64,4 +64,6 @@ Media should change the role of improving the interactivity between users and ex
 
 <https://www.mohfw.gov.in/>
 
+<https://www.covid19india.org/>
+
 <https://www.worldometers.info/coronavirus/#countries>
