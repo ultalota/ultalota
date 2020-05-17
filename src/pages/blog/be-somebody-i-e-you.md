@@ -20,14 +20,11 @@ tags:
 ---
 Open your eye, look left look right,
 
-Herd of sheep black and white,
-you are brown, long tail and yellow eye,
+In herd of sheep black and white, you are brown, long face and pale eye.
 
-All are shouting 'the sky is falling'  Don't you rush glare up give your conviction 
-space for your sight.
+All are shouting 'the sky is falling'  Don't you rush glare up give your conviction  space for your sight.
 
-Have faith, if its stone or green sprouting life nothing exists for the closed eye.
-Believe, in your existence! your senses will extend 
+Have faith, if its stone or green sprouting life nothing exists for the closed eye. Believe, in your existence! your senses will extend 
 horizon,  identify your life.
 
  For a while,  it is tough and exhausting but nothing is free in our life.
