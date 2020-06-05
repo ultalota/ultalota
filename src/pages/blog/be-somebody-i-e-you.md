@@ -3,7 +3,7 @@ templateKey: article-page
 title: Be Somebody i.e. YOU!
 author: Raman Sharma
 date: 2020-05-17T15:39:07.862Z
-cover: /img/whatsapp-image-2020-05-06-at-1.29.25-pm.jpeg
+cover: /img/muzammil-soorma-r11bpps4q8o-unsplash.jpg
 meta_title: Be yourself!
 meta_description: >
   lost in life and being different. self-belief and faith is lost too in the
