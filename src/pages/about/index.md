@@ -11,7 +11,9 @@ meta_description: >-
   sharing interesting views on the importance of the progressive reforms in
   social human existence.
 ---
-\[ '' ironically, we accept life isn't constant , we still look for everything fixed " ]
+\[ '' ironically, we accept life isn't constant , we still look for everything fixed " - Energies ]
+
+Reading page number 36 of Life. 
 
 Courage to see yourself.
 
@@ -23,6 +25,8 @@ Confidence is your cloth.
 
 Conquer what is yours.
 
-life's lessons are simple but we complicated it with our choice. Now most of us are lost, there are reason for everything understanding the energies will make your life simpler. 
+Life's lessons are simple but we complicated it with our choice. Now most of us are lost, there are reason for everything understanding the energies will make your life simpler. 
 
-what you will get? well let me very clear nothing or everything you wish for.
+What you will get? well let me very clear nothing or everything you wish for.
+
+If you can face yourself without being bias you will find friend who will teach you how to be happy.
