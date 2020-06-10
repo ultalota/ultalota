@@ -30,3 +30,5 @@ Life's lessons are simple but we complicated it with our choice. Now most of us 
 What you will get? well let me very clear nothing or everything you wish for.
 
 If you can face yourself without being bias you will find friend who will teach you how to be owner of happiness.
+
+I'am Mentor! I will select Mentees!
