@@ -1,8 +1,8 @@
 ---
 templateKey: about-page
-image: /img/19679397_1613956068636911_419396289790705622_o.jpg
+image: /img/whatsapp-image-2020-06-10-at-4.01.05-pm.jpeg
 title: Brain behind the trash
-meta_title: About | UltaLota
+meta_title: About | UltaLota| Raman Sharma
 meta_description: >-
   stories, experiences, touching reality, ignorances, the psychology behind,
   religion, barriers, spiritual, faith, and upcoming challenges in Indian and
@@ -12,3 +12,17 @@ meta_description: >-
   social human existence.
 ---
 \[ '' ironically, we accept life isn't constant , we still look for everything fixed " ]
+
+Courage to see yourself.
+
+Awareness will make your life simpler.
+
+Knowledge is real accolades.
+
+Confidence is your cloth.
+
+Conquer what is yours.
+
+life's lessons are simple but we complicated it with our choice. Now most of us are lost, there are reason for everything understanding the energies will make your life simpler. 
+
+what you will get? well let me very clear nothing or everything you wish for.
