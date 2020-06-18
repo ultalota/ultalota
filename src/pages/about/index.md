@@ -33,6 +33,6 @@ If you can face yourself without being bias you will find friend who will teach 
 
 \- \
 Raman Sharma\
-A Mental coach, Researcher, Mentor, Mind sculpture, Human, Citizen, Brother, Son, a Soul & Friend. 
+Mental coach| Researcher| Mentor| Mind sculpture| Human| Citizen| Brother| Son| Soul & Friend. 
 
 I'm good and trying to be good
